@@ -16,3 +16,5 @@ Skeet Watermark - https://i.imgur.com/mwhfnJo.png
 Clan Tag Changer - https://i.imgur.com/3Apflep.png - https://i.imgur.com/2GlmqLR.jpg
 
 Hit Or Miss - https://i.imgur.com/CWW4VrU.png
+
+OneWay - https://i.imgur.com/KO1OBVc.jpg
