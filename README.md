@@ -1,8 +1,10 @@
-=============== .lua files for aimware ===============
+============== .lua files for OneTao v3 ==============
 
                   Compiled by 🅴🅽🅸🅶🅼🅰
 
 ============= https://discord.gg/FAXupfd =============
+
+
 
 
 Grenade Helper - https://i.imgur.com/j6Ep68H.jpg
